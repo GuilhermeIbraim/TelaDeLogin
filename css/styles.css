@@ -78,3 +78,12 @@ input {
   font-size: 1rem;
   margin-bottom: 20px;
 }
+
+h1 {
+  background-color: aquamarine;
+  text-align: center;
+}
+
+#dentrodadiv {
+  background-color: wheat;
+}
