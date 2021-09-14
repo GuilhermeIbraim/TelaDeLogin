@@ -14,5 +14,67 @@ body {
 }
 
 a {
-  font-size: 0.8rem;
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+#login {
+  background-color: aliceblue;
+  width: 400px;
+  border-radius: 20px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 30px;
+  margin-top: 8vh;
+}
+
+#Horadologin {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: none;
+  height: 40px;
+  border-radius: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+  background-color: rgb(139, 139, 139);
+}
+
+#Cadastro {
+  margin-bottom: 40px;
+}
+
+/*#botaodeBusca {
+  border: 5px;
+  border-radius: 40px;
+  border-bottom: 10px;
+  width: 200px;
+  text-align: left;
+  bottom: 500px;
+  padding: 20px 30px;
+  background-color: rgb(136, 132, 132);
+}*/
+
+form {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+label,
+input {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  border-bottom: 2px solid #323232;
+  padding: auto;
+  font-size: 1rem;
+  margin-bottom: 20px;
 }
