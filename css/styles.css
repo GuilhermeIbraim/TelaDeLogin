@@ -80,10 +80,14 @@ input {
 }
 
 h1 {
-  background-color: aquamarine;
+  background-color: rgba(134, 156, 109, 0.541);
   text-align: center;
 }
 
 #dentrodadiv {
-  background-color: wheat;
+  background-color: rgb(139, 139, 139);
+}
+
+body {
+  background-image: url("../css/img/programa\ de\ estagio.jpg");
 }
